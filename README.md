@@ -1,7 +1,7 @@
 ![](https://img.freepik.com/premium-photo/bahrain-import-3d-illustration-country-flag-button_839051-7584.jpg)
 
 # Bahrain-Import-Data-Analysis-2020-2023
-This Power BI project focuses on analyzing import data for Bahrain from 2020 to 2023. The goal is to clean, connect, and visualize import datasets to provide insights into trade patterns and commodity classifications.
+This project analyzes Bahrain's import data from 2020 to 2023 using Power BI. It aims to visualize key insights regarding import values, weights, and quantities from various countries, helping stakeholders understand trade dynamics and identify major trading partners.
 
 # Data Sources
 Bahrain Open Source Data Portal: Datasets for the years 2020, 2021, 2022, and 2023 in Excel format.
