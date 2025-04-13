@@ -10,3 +10,11 @@ HS Code Category: Additional CSV file for categorizing commodities based on HS c
 # Goals
 Analyze Bahrain's imports over the specified years.
 Enable users to filter and visualize data based on HS codes and relevant metrics.
+
+# Key Visualizations
+Total Import Value by Year: Displays the sum of import values in Bahraini Dinars (BD) and US Dollars ($) from 2020 to 2023, illustrating trends over time.
+Import Value by Country: A pie chart showcasing the distribution of import values by country, identifying major trading partners.
+Summary Metrics:
+Total sum of import value (BD and $)
+Total import weight (KG)
+Average import value and quantity by country
